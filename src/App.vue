@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    你好啊222333
+    你好啊222333 WDNMD
   </div>
 </template>
 
