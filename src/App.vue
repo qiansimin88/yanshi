@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  你很坚强!
+  瞬间破防
   </div>
 </template>
 
