@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    不是很好
+    你很好
   </div>
 </template>
 
