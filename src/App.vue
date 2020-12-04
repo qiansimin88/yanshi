@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  你很坚强
+  你很坚强!
   </div>
 </template>
 
